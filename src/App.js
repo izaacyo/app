@@ -9,8 +9,6 @@ function App() {
       <Topbar />
       <div className="container">
         <Sidebar />
-      </div>
-      <div>
         <Home />
       </div>
     </div>
